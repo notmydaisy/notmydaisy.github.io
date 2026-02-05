@@ -4,6 +4,7 @@
     The Forge - 7671049560
     Brainrot Seas - 9048562273
     Tap Simulator - 8779464785
+    Steal From Brainrots - 9484779066
 ]]
 
 local GameID = game.GameId
@@ -20,4 +21,6 @@ elseif GameID == 7440311707 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d21613ac160cc5471dcbdff8f466f350.lua"))()
 elseif GameID == 8779464785 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ba13749542c8fa8ca8cfd9220fb44b5d.lua"))()
+elseif GameID == 9484779066 then
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd530b945c2f5dce9578c45e603ca89b.lua"))()
 end
